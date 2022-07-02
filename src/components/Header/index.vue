@@ -72,7 +72,7 @@ export default {
       }
     },
     goSearch() {
-      //路由传参：
+      //路由传参：qq
       //第一种：字符串形式
       //this.$router.push('/search/' + this.keyword+'?k='+this.keyword.toUpperCase())
       //第二种：模板字符串
